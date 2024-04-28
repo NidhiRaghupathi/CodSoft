@@ -7,6 +7,7 @@ Approach:
 2. Trained and evaluated classification algorithms, such as logistic regression, random forest and decision tree to classify transactions as fraudulent or genuine.
 
 Insights:
+
 Dataset was imbalanced as instances of fradulent transations were much less than valid ones.
 
 From above evaluations we can say that the Random forest model perfoms the best with accuracu score of 94.01% among all.
