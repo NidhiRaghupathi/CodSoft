@@ -55,6 +55,8 @@ Insights:
 
 Explored the impact of advertising expenditure, target audience segmentation, and advertising platform selection on product sales.
 
+There is a linear relationship between TV and Sales
+
 Developed a robust predictive model, enabling businesses to optimize advertising strategies and maximize sales potential.
 
 Linear Regression performs the best as it has lowest Mean Absolute Error and Mean Squared Error but highest R-squared among all other models.
